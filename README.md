@@ -7,4 +7,4 @@
 </br>
 <p> OBS: Deepois de feito sera aberto em seu navegador automaticamente, e sera gerado no terminal a url informando a porta em que esta localizado a aplicação. (http://localhost:4200/) </p>
 
-<img src="[img_girl.jpg](https://github.com/FIAP-2024-3SIS/cp02-93220-osvaldo-jose-sandoli-neto.git)">
+<img src="[img_girl.jpg](https://github.com/FIAP-2024-3SIS/cp02-93220-osvaldo-jose-sandoli-neto.git)" alt="">
